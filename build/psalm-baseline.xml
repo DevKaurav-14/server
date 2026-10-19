@@ -3814,7 +3814,6 @@
       <code><![CDATA[int]]></code>
     </InvalidReturnType>
     <InvalidScalarArgument>
-      <code><![CDATA[$lastChunkPos]]></code>
       <code><![CDATA[$size]]></code>
     </InvalidScalarArgument>
   </file>
